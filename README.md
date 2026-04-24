@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Shreya M<br>A passionate developer from India IN<br><br>👨‍💻 I’m currently learning Java<br><br>💻 Working on python<br><br>💫Diving depth into Frontend <br><br>📫 Reach out to me at sshreyam502@gmail.com
+Hi 👋 I'm Shreya M<br>A passionate developer from India IN<br><br>👨‍💻 I’m currently learning Java<br><br>💻 Working on python<br><br>💫Diving depth into Frontend and Backend <br><br>📫 Reach out to me at sshreyam502@gmail.com
 
 
 ## 🌐 Socials:
